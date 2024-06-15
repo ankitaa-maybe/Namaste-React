@@ -1,2 +1,3 @@
 # Namaste-React
-My React Journey
+My React Journey.
+Episode 1
